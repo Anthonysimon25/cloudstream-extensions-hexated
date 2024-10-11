@@ -12,7 +12,7 @@ import com.lagradost.cloudstream3.utils.ExtractorLink
 import com.lagradost.cloudstream3.utils.loadExtractor
 
 class KissasianMx : Kissasian() {
-    override var mainUrl = "https://kissasian.mx"
+    override var mainUrl = "https://kissasiantv.cx"
     override var name = "KissasianMx"
     override val contentInfoClass = "barContent"
     override val mainPage = mainPageOf(
